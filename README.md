@@ -3,7 +3,7 @@
 👶 1996.06.24 <br>
 📞 010-8388-6318 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frencine0624@gmail.com)](mailto:frencine0624@gmail.com) <span><a href="[https://www.notion.so/3b772d5e640945bcbc6898805aaa0bdf](https://www.notion.so/a4ae0bdd17fd4f4d89e94ec863fed298?pvs=4)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:frencine0624@gmail.com)](mailto:frencine0624@gmail.com) <span><a href="https://www.notion.so/a4ae0bdd17fd4f4d89e94ec863fed298"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
